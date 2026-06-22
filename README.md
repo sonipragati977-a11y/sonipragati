@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Pragati Soni 👋
+# Hi there, I'm Pragati Soni 
 
 ### Aspiring Developer · CSE Student · UI/UX Enthusiast
 
